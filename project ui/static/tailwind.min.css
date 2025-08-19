@@ -1,0 +1,30 @@
+
+/* Tailwind Fallback Lite */
+body { font-family: sans-serif; padding: 20px; background: #f9f9f9; }
+h1 { font-size: 1.5rem; font-weight: bold; margin-bottom: 1rem; }
+textarea { width: 100%; padding: 0.5rem; border: 1px solid #ccc; border-radius: 0.25rem; }
+button { padding: 0.5rem 1rem; background: #4a90e2; color: white; border: none; border-radius: 0.25rem; cursor: pointer; margin: 0.25rem 0; }
+button:hover { background: #357ab7; }
+pre { background: #fff; padding: 1rem; border-radius: 0.25rem; border: 1px solid #ddd; margin-top: 1rem; }
+.hidden { display: none; }
+.text-center { text-align: center; }
+.bg-white { background: white; }
+.bg-gray-100 { background: #f7fafc; }
+.bg-gray-200 { background: #edf2f7; }
+.bg-blue-500 { background: #4299e1; }
+.bg-green-500 { background: #48bb78; }
+.bg-purple-500 { background: #9f7aea; }
+.text-white { color: white; }
+.text-gray-500 { color: #a0aec0; }
+.font-bold { font-weight: bold; }
+.rounded { border-radius: 0.25rem; }
+.border { border: 1px solid #cbd5e0; }
+.mt-2 { margin-top: 0.5rem; }
+.mt-4 { margin-top: 1rem; }
+.mb-2 { margin-bottom: 0.5rem; }
+.mb-4 { margin-bottom: 1rem; }
+.p-2 { padding: 0.5rem; }
+.p-4 { padding: 1rem; }
+.p-8 { padding: 2rem; }
+.w-full { width: 100%; }
+.min-w-full { min-width: 100%; }
